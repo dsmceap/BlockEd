@@ -44,7 +44,7 @@ This system enables:
   - QR scanning.
   - Direct blockchain verification.
 - How to install the “Verifier-App” on your Android phone:
-  - Download the file and save it on your phone.
+  - Download the file (https://github.com/dsmceap/BlockEd/raw/refs/heads/main/Verifier-App/blocked-release.v1.0.apk) and save it on your phone.
   - On your phone go to Settings → Apps & notifications → Special app access → Install unknown apps.
   - Find your browser (e.g. Chrome) or file manager, and enable Allow from this source.
   - Open “Files” or “Downloads” on your phone, tap the file blocked-release.vX.0.apk, and tap Install.
