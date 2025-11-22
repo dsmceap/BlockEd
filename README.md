@@ -47,7 +47,7 @@ This system enables:
   - Download the file (https://github.com/dsmceap/BlockEd/raw/refs/heads/main/Verifier-App/blocked-release.v1.0.apk) and save it on your phone.
   - On your phone go to Settings → Apps & notifications → Special app access → Install unknown apps.
   - Find your browser (e.g. Chrome) or file manager, and enable Allow from this source.
-  - Open “Files” or “Downloads” on your phone, tap the file blocked-release.vX.0.apk, and tap Install.
+  - Open “Files” or “Downloads” on your phone, tap the file blocked-release.v1.0.apk, and tap Install.
   - After installation is done, tap Open to launch the app (or find it in your Apps list).
   - Once the app is working, you may disable the “Allow from this source” setting for the browser/file manager for extra safety.
  
